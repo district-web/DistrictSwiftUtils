@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DistrictSwiftUtils_Tests' do
+  pod 'DistrictSwiftUtils', :path => '../'
+  
+  
+end
