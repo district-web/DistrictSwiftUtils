@@ -1,0 +1,16 @@
+PODS:
+  - DistrictSwiftUtils (0.1.0)
+
+DEPENDENCIES:
+  - DistrictSwiftUtils (from `../`)
+
+EXTERNAL SOURCES:
+  DistrictSwiftUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DistrictSwiftUtils: 67cb94dfe1bb838693d805904736236fc2454b5c
+
+PODFILE CHECKSUM: 397b9f7eb5cb2968959b29211f9a59c133090f8d
+
+COCOAPODS: 1.1.1
