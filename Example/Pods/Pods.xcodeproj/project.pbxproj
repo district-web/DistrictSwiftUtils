@@ -147,10 +147,18 @@
 			path = "Example/Pods/Target Support Files/DistrictSwiftUtils";
 			sourceTree = "<group>";
 		};
-		A0AD7C68964C019BE5013E2760E81A4E /* DistrictSwiftUtils */ = {
+		9C52831C1E27AD1800D6C6BB /* Extension */ = {
 			isa = PBXGroup;
 			children = (
 				9C27A9731E17D526000153DB /* Dictionary.swift */,
+			);
+			name = Extension;
+			sourceTree = "<group>";
+		};
+		A0AD7C68964C019BE5013E2760E81A4E /* DistrictSwiftUtils */ = {
+			isa = PBXGroup;
+			children = (
+				9C52831C1E27AD1800D6C6BB /* Extension */,
 			);
 			path = DistrictSwiftUtils;
 			sourceTree = "<group>";
